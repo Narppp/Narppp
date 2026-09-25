@@ -9,4 +9,9 @@ I started C 3 months ago and  I'm currently focusing on Unix Processes to unders
 - Makefile
 - Git
 
-wtf next
+## what's next
+
+* [ ] **Custom Unix Shell** *(Current project)*
+* [ ] **Data Structures From Scratch** 
+* [ ] **Custom Memory Allocator (`malloc`/`free`)**
+* [ ] **BitKV** (Persistent Key-Value Storage Engine)
