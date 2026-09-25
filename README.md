@@ -1,5 +1,7 @@
 ## Hi, I'm Nerp
--- 
+
+I focus on systems stuff with C, making simple projects as of now but I'm working on something big soon.
+---
 
 <!--
 **Narppp/Narppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
