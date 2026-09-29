@@ -15,3 +15,8 @@ I started C 3 months ago and  I'm currently focusing on Unix Processes to unders
 * [ ] **Data Structures From Scratch** 
 * [ ] **Custom Memory Allocator (`malloc`/`free`)**
 * [ ] **BitKV** (Persistent Key-Value Storage Engine)
+* [ ] **HTTP Server**
+* [ ] **Custom C Library**
+
+## socials
+[https://linkedin.com/in/justin-kurt-gracilla]
