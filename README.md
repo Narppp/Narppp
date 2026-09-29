@@ -19,5 +19,9 @@ I started C 3 months ago and  I'm currently focusing on Unix Processes to unders
 * [ ] **Custom C Library**
 
 ## socials
+
+LinkedIn
 https://linkedin.com/in/justin-kurt-gracilla
-[Email Me](mailto:justinkurtgracilla@gmail.com)
+
+Email
+(mailto:justinkurtgracilla@gmail.com)
