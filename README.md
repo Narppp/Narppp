@@ -4,8 +4,8 @@ I lab C
 
 ## Tools:
 - GDB (segfault debug)
-- Valgrind (better mem leak checker)
-- ASan (inferior mem leak checker)
+- Valgrind (mem leak checker #1)
+- ASan (mem leak checker #2)
 - Makefile (for building projects)
 - Git (push shi)
 
