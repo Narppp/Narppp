@@ -1,6 +1,6 @@
 ## who is this
 
-I lab C
+I lab C :)
 
 ## Tools:
 - GDB (segfault debug)
