@@ -1,13 +1,13 @@
 ## who is this
 
-I focus on systems stuff with C, making simple projects as of now but I'm working on something big.
-I started C 3 months ago and  I'm currently focusing on Unix Processes to understand system calls and how a shell works under the hood.
+I lab C
 
 ## Tools:
-- GDB
-- Valgrind
-- Makefile
-- Git
+- GDB (segfault debug)
+- Valgrind (better mem leak checker)
+- ASan (inferior mem leak checker)
+- Makefile (for building projects)
+- Git (push shi)
 
 ## what's next
 
