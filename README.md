@@ -1,6 +1,7 @@
 ## who is this
 
-Student that has an interest for systems programming mainly using C\n
+Student that has an interest for systems programming mainly using C
+
 I lab C :)
 
 ## Tools:
