@@ -14,15 +14,3 @@ I lab C :)
 ## what's next
 
 * [ ] **Custom Unix Shell** *(Current project)*
-* [ ] **Data Structures From Scratch** 
-* [ ] **Custom Memory Allocator (`malloc`/`free`)**
-* [ ] **HTTP Server**
-* [ ] **Custom C Library**
-
-## socials
-
-LinkedIn
-https://linkedin.com/in/justin-kurt-gracilla
-
-Email
-(mailto:justinkurtgracilla@gmail.com)
