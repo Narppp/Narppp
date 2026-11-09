@@ -1,6 +1,6 @@
 ## who is this
 
-Student that has an interest for systems programming mainly using C
+Student that has focuses on systems programming, building low level tools, and understanding kernel architecture. I build custom systems software in C and assembly to master process lifecycles, memory boundaries, and raw OS internals.
 
 I lab C :)
 
